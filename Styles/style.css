@@ -1644,7 +1644,9 @@ select:focus {
         width: 335px;
 
     }
-
+    .section2 .col2.first{
+        display: none;
+    }
 
 }
 
